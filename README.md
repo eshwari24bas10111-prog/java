@@ -1,4 +1,4 @@
-# Amar Dixit, 24BAS10093
+# Eshwari Nagesh Akkalkote 24bas10111
 
 # University Course Registration System
 
